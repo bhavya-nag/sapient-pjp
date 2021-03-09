@@ -1,4 +1,3 @@
 Week-1 Learning to work on git, branches (feature branch, dev branch, prod branch)
 	Feature Branch: Adding features
 	Development Branch: Pulled features from Feature Branch
-	Production Branch: Working with rebase, revert, reset
